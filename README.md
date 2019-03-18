@@ -1,2 +1,2 @@
 # CSC-151
-Java Programming
+Java Programming 1
